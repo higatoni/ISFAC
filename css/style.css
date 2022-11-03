@@ -101,4 +101,5 @@ img {
 }
 footer {
     background: rgb(220, 228, 232);
+    border: 1px solid red;
 }
